@@ -32,3 +32,22 @@ C:\TestGlobal\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\Gp.Test.Repository
 C:\TestGlobal\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\Gp.Test.Repository.dll
 C:\TestGlobal\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\ref\Gp.Test.Repository.dll
 C:\TestGlobal\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\Gp.Test.Repository.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\bin\Debug\net6.0\Gp.Test.Repository.deps.json
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\bin\Debug\net6.0\Gp.Test.Repository.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\bin\Debug\net6.0\Gp.Test.Repository.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\bin\Debug\net6.0\Gp.Test.Api.DTO.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\bin\Debug\net6.0\Gp.Test.Entity.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\bin\Debug\net6.0\Gp.Test.Interface.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\bin\Debug\net6.0\Gp.Test.Entity.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\bin\Debug\net6.0\Gp.Test.Interface.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\bin\Debug\net6.0\Gp.Test.Api.DTO.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\Gp.Test.Repository.csproj.AssemblyReference.cache
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\Gp.Test.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\Gp.Test.Repository.AssemblyInfoInputs.cache
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\Gp.Test.Repository.AssemblyInfo.cs
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\Gp.Test.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\Gp.Test.Repository.csproj.CopyComplete
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\Gp.Test.Repository.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\refint\Gp.Test.Repository.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\Gp.Test.Repository.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Repository\obj\Debug\net6.0\ref\Gp.Test.Repository.dll

@@ -9,7 +9,7 @@
     {
         IConfiguration configuration;
         private readonly TestContext _dbContext;
-     
+
         public TestRepository(TestContext context, IConfiguration configuration)
         {
             _dbContext = context;
@@ -19,6 +19,31 @@
         ICollection<Personas>? ITestRepository.GetAll()
         {
             return _dbContext.Personas.ToList();
+        }
+
+        Personas? ITestRepository.GetById(Guid id)
+        {
+            return _dbContext.Personas.Where(x => x.Id == id).FirstOrDefault();
+        }
+
+        bool ITestRepository.Update(Personas request)
+        {
+            var persona = _dbContext.Personas.Where(x => x.Id == request.Id).FirstOrDefault();
+            if (persona != null)
+            {
+                _dbContext.Update(request);
+                _dbContext.SaveChanges();
+                return true;
+            }
+            return false;
+        }
+
+        public Personas Save(Personas personas)
+        {
+            _dbContext.Personas.Add(personas);
+            _dbContext.SaveChanges();
+
+            return personas;
         }
     }
 }

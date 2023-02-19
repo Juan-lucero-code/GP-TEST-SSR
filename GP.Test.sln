@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gp.Test.Repository", "Gp.Te
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gp.Test.Interface", "GpTest.Interface\Gp.Test.Interface.csproj", "{DB028136-AD43-4E2A-9382-FAB9A3ECD5D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gp.Test.Service", "Service\Gp.Test.Service.csproj", "{834823CC-7882-4901-9851-1585C4BA3ADF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DB028136-AD43-4E2A-9382-FAB9A3ECD5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB028136-AD43-4E2A-9382-FAB9A3ECD5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB028136-AD43-4E2A-9382-FAB9A3ECD5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{834823CC-7882-4901-9851-1585C4BA3ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834823CC-7882-4901-9851-1585C4BA3ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834823CC-7882-4901-9851-1585C4BA3ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834823CC-7882-4901-9851-1585C4BA3ADF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ahfdfLQBg6LXwrxeuQJEuomVJUykoNNXuYVgsJgRockU9t+maTpi29rt6rbP5rB6GVU2AykRH9h69WG8pAsuyA==",
+  "dgSpecHash": "+LasYd0inJaRcSsNUHd9vWjupxrOuc82ZhfCXMhVW2lZ8R4lT57iIESFEpvnKTzeFSgwmvS6JKXRY0VIoBrH7A==",
   "success": true,
-  "projectFilePath": "C:\\TestGlobal\\GP-TEST-SSR\\Gp.Test.Api.DTO\\Gp.Test.Api.DTO.csproj",
+  "projectFilePath": "C:\\Users\\Global Task\\Documents\\Repositorios\\GP-TEST-SSR\\Gp.Test.Api.DTO\\Gp.Test.Api.DTO.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lvazquez\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
-    "C:\\Users\\lvazquez\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\Global Task\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Global Task\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

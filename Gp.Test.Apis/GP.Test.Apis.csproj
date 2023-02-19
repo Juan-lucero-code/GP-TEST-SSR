@@ -26,6 +26,7 @@
     <ProjectReference Include="..\Gp.Test.Api.DTO\Gp.Test.Api.DTO.csproj" />
     <ProjectReference Include="..\Gp.Test.Repository\Gp.Test.Repository.csproj" />
     <ProjectReference Include="..\GpTest.Interface\Gp.Test.Interface.csproj" />
+    <ProjectReference Include="..\Service\Gp.Test.Service.csproj" />
   </ItemGroup>
 
   <ItemGroup>

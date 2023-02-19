@@ -11,6 +11,7 @@
           "Gp.Test.Api.DTO": "1.0.0",
           "Gp.Test.Interface": "1.0.0",
           "Gp.Test.Repository": "1.0.0",
+          "Gp.Test.Service": "1.0.0",
           "Microsoft.EntityFrameworkCore.InMemory": "7.0.2",
           "ServiceStack.Interfaces": "6.0.2",
           "Swashbuckle.AspNetCore": "6.3.0"
@@ -487,7 +488,8 @@
       "System.Threading.Tasks.Extensions/4.5.4": {},
       "Gp.Test.Api.DTO/1.0.0": {
         "dependencies": {
-          "AutoMapper": "11.0.1"
+          "AutoMapper": "11.0.1",
+          "Gp.Test.Entity": "1.0.0"
         },
         "runtime": {
           "Gp.Test.Api.DTO.dll": {}
@@ -500,6 +502,7 @@
       },
       "Gp.Test.Interface/1.0.0": {
         "dependencies": {
+          "Gp.Test.Api.DTO": "1.0.0",
           "Gp.Test.Entity": "1.0.0",
           "Microsoft.Graph": "4.20.0",
           "System.Collections": "4.3.0"
@@ -519,6 +522,15 @@
         },
         "runtime": {
           "Gp.Test.Repository.dll": {}
+        }
+      },
+      "Gp.Test.Service/1.0.0": {
+        "dependencies": {
+          "Gp.Test.Api.DTO": "1.0.0",
+          "Gp.Test.Interface": "1.0.0"
+        },
+        "runtime": {
+          "Gp.Test.Service.dll": {}
         }
       }
     }
@@ -875,7 +887,7 @@
     "System.Security.Cryptography.Cng/4.5.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-WG3r7EyjUe9CMPFSs6bty5doUqT+q9pbI80hlNzo2SkPkZ4VTuZkGWjpp77JB8+uaL4DFPRdBsAY+DX3dBK92A==",
+      "sha512": "sha512-O4tqXxWCD8y1IU1VTgzbuBFwoRahrADhDUxHjwezhHCsqyFNyQ5EytjWBxu0EsZuH14b4UO2pFkG063K2h/9Ug==",
       "path": "system.security.cryptography.cng/4.5.0",
       "hashPath": "system.security.cryptography.cng.4.5.0.nupkg.sha512"
     },
@@ -937,6 +949,11 @@
       "sha512": ""
     },
     "Gp.Test.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gp.Test.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

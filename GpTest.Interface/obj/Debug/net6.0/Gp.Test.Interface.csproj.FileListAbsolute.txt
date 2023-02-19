@@ -40,3 +40,20 @@ C:\GP-TP-GIT\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\Gp.Test.Interface.csp
 C:\GP-TP-GIT\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\Gp.Test.Interface.dll
 C:\GP-TP-GIT\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\ref\Gp.Test.Interface.dll
 C:\GP-TP-GIT\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\Gp.Test.Interface.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\bin\Debug\net6.0\Gp.Test.Interface.deps.json
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\bin\Debug\net6.0\Gp.Test.Interface.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\bin\Debug\net6.0\Gp.Test.Interface.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\bin\Debug\net6.0\Gp.Test.Api.DTO.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\bin\Debug\net6.0\Gp.Test.Entity.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\bin\Debug\net6.0\Gp.Test.Api.DTO.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\bin\Debug\net6.0\Gp.Test.Entity.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\Gp.Test.Interface.csproj.AssemblyReference.cache
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\Gp.Test.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\Gp.Test.Interface.AssemblyInfoInputs.cache
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\Gp.Test.Interface.AssemblyInfo.cs
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\Gp.Test.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\Gp.Test.Interface.csproj.CopyComplete
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\Gp.Test.Interface.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\refint\Gp.Test.Interface.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\Gp.Test.Interface.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\GpTest.Interface\obj\Debug\net6.0\ref\Gp.Test.Interface.dll

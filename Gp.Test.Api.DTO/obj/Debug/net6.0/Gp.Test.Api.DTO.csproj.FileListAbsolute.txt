@@ -34,3 +34,18 @@ C:\GP-TP-GIT\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.csproj
 C:\GP-TP-GIT\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.dll
 C:\GP-TP-GIT\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\ref\Gp.Test.Api.DTO.dll
 C:\GP-TP-GIT\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\bin\Debug\net6.0\Gp.Test.Api.DTO.deps.json
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\bin\Debug\net6.0\Gp.Test.Api.DTO.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\bin\Debug\net6.0\Gp.Test.Api.DTO.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\bin\Debug\net6.0\Gp.Test.Entity.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\bin\Debug\net6.0\Gp.Test.Entity.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.csproj.AssemblyReference.cache
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.AssemblyInfoInputs.cache
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.AssemblyInfo.cs
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.csproj.CopyComplete
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\refint\Gp.Test.Api.DTO.dll
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.pdb
+C:\Users\Global Task\Documents\Repositorios\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\ref\Gp.Test.Api.DTO.dll
